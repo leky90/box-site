@@ -1,0 +1,5 @@
+export const HOME = '/'
+export const SERVICE = '/dich-vu'
+export const ABOUT = '/ve-box'
+export const CONTACT = '/lien-he'
+export const BLOG = '/blog'
