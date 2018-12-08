@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{143:function(e,a,t){"use strict";t.r(a);var n=t(0),l=t.n(n),o=t(1),r=t.n(o),s=t(155),c=t(152),p=function(e){var a=e.pageContext,t=a.tags;return console.log(a),l.a.createElement(s.d,null,l.a.createElement(c.b,{title:"Tags Page"},"Tin tức theo tag"),l.a.createElement(s.a,null,l.a.createElement(c.f,{list:t})))};a.default=p,p.propTypes={pageContext:r.a.shape({tags:r.a.array})}}}]);
+//# sourceMappingURL=component---src-pages-tags-jsx-c08925cc68500ee75ee1.js.map
